@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+I felt like this lab made more sense to me than expected because it was very similar to the pipeline we made in class last time. I'm not sure how I feel about letting CoPilot do most of the work for me, but I still feel like I understand what is happening. I didn't really understand part 3 about loading the file. I don't remember going over that in class and I had to use the solution to figure that out. 
